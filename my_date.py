@@ -1,8 +1,8 @@
 #######################################################
 # my_date
 #
-# Name: zzNAMEzz (replace with your name)
-# Section: XX
+# Name: Mark Kimani (replace with your name)
+# Section: 3
 #
 # Fall 2023
 #########################################################
